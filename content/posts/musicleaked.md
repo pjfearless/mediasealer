@@ -7,6 +7,9 @@ image: "/images/mixingboard.png"
 description: "How music producers can use digital seals to track leaks and protect unreleased demos."
 ---
 
+![Audio mixing board](/images/mixingboard.png)
+
+&nbsp;
 
 ## **The Producers Nightmare**
 
@@ -71,6 +74,8 @@ If a collaborator takes your track and tries to edit out your producer tag or al
 
 You don't have to hoard your music to keep it safe. You just need to seal it. Send your demos with confidence, knowing your identity is embedded in every beat.
 
-![Author profile picture](/images/paul.jpeg)
+&nbsp;
 
-![Audio mixing board](/images/mixingboard.png)
+
+![Author profile picture](/images/paul.jpeg)
+*By Paul Fearon, Co-Founder*

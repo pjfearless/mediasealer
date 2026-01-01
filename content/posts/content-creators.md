@@ -7,8 +7,6 @@ image: "/images/creators.png"
 description: "How to protect your digital identity and income in the copy-paste economy using professional media sealing."
 ---
 
-![Author profile picture](/images/paul.jpeg)
-*By Paul Fearon, Co-Founder*
 
 ![Abstract digital network art](/images/creators.png)
 
@@ -64,3 +62,8 @@ AI tools can now erase visible watermarks in seconds. To truly protect your inco
 
 
 In a world where AI can generate infinite content for free, proven human ownership becomes the ultimate luxury product. Software can be cracked, but loyalty is hack-proof.
+
+&nbsp;
+
+![Author profile picture](/images/paul.jpeg)
+*By Paul Fearon, Co-Founder*
