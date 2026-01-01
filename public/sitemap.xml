@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/contentpassport/</loc>
+    <loc>http://localhost:1313/content-passport/</loc>
     <lastmod>2025-12-13T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -11,22 +11,22 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-12-13T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/musicleaked/</loc>
+    <loc>http://localhost:1313/my-music-leaked.-what-do-i-do-now/</loc>
     <lastmod>2025-12-10T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hollywoodleaks/</loc>
+    <loc>http://localhost:1313/hollywoods-worst-leaks/</loc>
     <lastmod>2025-12-10T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/protect-photo/</loc>
+    <loc>http://localhost:1313/6-ways-to-protect-your-photography/</loc>
     <lastmod>2025-12-10T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/content-creators/</loc>
+    <loc>http://localhost:1313/content-creators-a-strategy-for-proof-of-ownership/</loc>
     <lastmod>2025-10-19T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ipdigitalage/</loc>
+    <loc>http://localhost:1313/ip-in-the-digital-age-why-proof-is-the-new-protection/</loc>
     <lastmod>2025-10-19T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/deepfakedilemma/</loc>
+    <loc>http://localhost:1313/the-deepfake-dilemma/</loc>
     <lastmod>2025-06-19T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

@@ -10,51 +10,51 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Content Passport</title>
-      <link>http://localhost:1313/posts/contentpassport/</link>
+      <link>http://localhost:1313/content-passport/</link>
       <pubDate>Sat, 13 Dec 2025 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/contentpassport/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/paul.jpeg&#34; alt=&#34;Author profile picture&#34;&gt;&#xA;&lt;em&gt;By Paul Fearon, Co-Founder&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/digitalpassportdiscussion.jpg&#34; alt=&#34;An evocative image of a script on a desk.&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;listen-to-the-deep-dive&#34;&gt;&lt;strong&gt;Listen to the Deep Dive&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;figure class=&#34;audio-player my-8 p-6 bg-gray-900/50 rounded-xl border border-gray-700 glass-card&#34;&gt;&#xA;    &lt;div class=&#34;flex items-center gap-4 mb-4&#34;&gt;&#xA;        &lt;div class=&#34;bg-blue-600 p-3 rounded-full&#34;&gt;&#xA;            &lt;svg class=&#34;w-6 h-6 text-white&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; viewBox=&#34;0 0 24 24&#34;&gt;&#xA;                &lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34; d=&#34;M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z&#34; /&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div&gt;&#xA;            &lt;span class=&#34;text-white font-semibold block&#34;&gt;Listen to Discussion&lt;/span&gt;&#xA;            &lt;span class=&#34;text-xs text-gray-400&#34;&gt;A discussion on the benefits of Media Seal approach to IP protection&lt;/span&gt;&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34; class=&#34;w-full h-10 accent-blue-500&#34;&gt;&#xA;        &lt;source src=&#34;http://localhost:1313/audio/MediaSeal%20Is%20Digital%20Content%20Passport%20Not%20Lock.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;        Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;the-failure-of-the&#34;&gt;&lt;strong&gt;The Failure of the &amp;ldquo;Lockdown&amp;rdquo; Mentality&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;For decades, the media industry has been obsessed with &amp;ldquo;locking&amp;rdquo; content. We used DRM (Digital Rights Management), password-protected zips, and complex firewalls to stop people from copying files.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/content-passport/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/digitalpassportdiscussion.jpg&#34; alt=&#34;An evocative image of a script on a desk.&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;listen-to-the-deep-dive&#34;&gt;&lt;strong&gt;Listen to the Deep Dive&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;figure class=&#34;audio-player my-8 p-6 bg-gray-900/50 rounded-xl border border-gray-700 glass-card&#34;&gt;&#xA;    &lt;div class=&#34;flex items-center gap-4 mb-4&#34;&gt;&#xA;        &lt;div class=&#34;bg-blue-600 p-3 rounded-full&#34;&gt;&#xA;            &lt;svg class=&#34;w-6 h-6 text-white&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; viewBox=&#34;0 0 24 24&#34;&gt;&#xA;                &lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34; d=&#34;M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z&#34; /&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div&gt;&#xA;            &lt;span class=&#34;text-white font-semibold block&#34;&gt;Listen to Discussion&lt;/span&gt;&#xA;            &lt;span class=&#34;text-xs text-gray-400&#34;&gt;A discussion on the benefits of Media Seal approach to IP protection&lt;/span&gt;&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34; class=&#34;w-full h-10 accent-blue-500&#34;&gt;&#xA;        &lt;source src=&#34;http://localhost:1313/audio/MediaSeal%20Is%20Digital%20Content%20Passport%20Not%20Lock.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;        Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;the-failure-of-the&#34;&gt;&lt;strong&gt;The Failure of the &amp;ldquo;Lockdown&amp;rdquo; Mentality&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt; &lt;/p&gt;</description>
     </item>
     <item>
       <title>My Music Leaked. What Do I Do Now?</title>
-      <link>http://localhost:1313/posts/musicleaked/</link>
+      <link>http://localhost:1313/my-music-leaked.-what-do-i-do-now/</link>
       <pubDate>Wed, 10 Dec 2025 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/musicleaked/</guid>
+      <guid>http://localhost:1313/my-music-leaked.-what-do-i-do-now/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/paul.jpeg&#34; alt=&#34;Author profile picture&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/mixingboard.png&#34; alt=&#34;Audio mixing board&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-producers-nightmare&#34;&gt;The Producers Nightmare&lt;/h2&gt;&#xA;&lt;p&gt;You send a beat pack to a rapper. You email a demo to a label A/R rep. Two weeks later, you hear your melody on the radio—or find your unreleased track leaked on a forum.&lt;/p&gt;&#xA;&lt;p&gt;Music collaboration relies on sharing files, but sharing files usually means losing control. Once that MP3 leaves your email, it&amp;rsquo;s gone. To survive in the modern music industry, you need a way to share your art without surrendering your rights.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hollywoods worst leaks</title>
-      <link>http://localhost:1313/posts/hollywoodleaks/</link>
+      <link>http://localhost:1313/hollywoods-worst-leaks/</link>
       <pubDate>Wed, 10 Dec 2025 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hollywoodleaks/</guid>
+      <guid>http://localhost:1313/hollywoods-worst-leaks/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/paul.jpeg&#34; alt=&#34;Author profile picture&#34;&gt;&#xA;&lt;em&gt;By Paul Fearon, Co-Founder&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/script.png&#34; alt=&#34;A top secret folder on a desk.&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-trust-protocol&#34;&gt;The Trust Protocol&lt;/h2&gt;&#xA;&lt;p&gt;For a screenwriter or filmmaker, the journey from idea to script is an act of faith. But the real leap of faith comes when you have to share it. You send your work—your intellectual property—to a small, trusted circle of agents, producers, and actors. This &amp;ldquo;trust protocol&amp;rdquo; is the unwritten rule that holds the pre-production ecosystem together.&lt;/p&gt;</description>
     </item>
     <item>
       <title>6 Ways to Protect your Photography</title>
-      <link>http://localhost:1313/posts/protect-photo/</link>
+      <link>http://localhost:1313/6-ways-to-protect-your-photography/</link>
       <pubDate>Wed, 10 Dec 2025 09:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/protect-photo/</guid>
+      <guid>http://localhost:1313/6-ways-to-protect-your-photography/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/paul.jpeg&#34; alt=&#34;Author profile picture&#34;&gt;&#xA;&lt;em&gt;Author - Paul Fearon&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/photo.png&#34; alt=&#34;Photographer with camera&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the&#34;&gt;&lt;strong&gt;The &amp;ldquo;Right-Click&amp;rdquo; Nightmare&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;For a photographer, the internet is a double-edged sword. It is your gallery, your marketing tool, and your storefront. But it is also the world&amp;rsquo;s largest photocopier. You spend thousands on gear and hours on editing, only for someone to &amp;ldquo;right-click, save&amp;rdquo; and re-upload your work without credit—or worse, sell it as stock imagery.&lt;/p&gt;&#xA;&lt;p&gt;Standard protections like visible watermarks are easily erased by AI. Standard metadata (EXIF) is stripped automatically by most social media platforms. You need a layer of protection that travels with the file, forever.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Content Creators: A Strategy for Proof of Ownership</title>
-      <link>http://localhost:1313/posts/content-creators/</link>
+      <link>http://localhost:1313/content-creators-a-strategy-for-proof-of-ownership/</link>
       <pubDate>Sun, 19 Oct 2025 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/content-creators/</guid>
+      <guid>http://localhost:1313/content-creators-a-strategy-for-proof-of-ownership/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/paul.jpeg&#34; alt=&#34;Author profile picture&#34;&gt;&#xA;&lt;em&gt;By Paul Fearon, Co-Founder&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/creators.png&#34; alt=&#34;Abstract digital network art&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;ownership-is-income&#34;&gt;&lt;strong&gt;Ownership is Income&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;In 2025, the biggest threat to your creator income isn’t “the algorithm” or “shadowbanning.” It’s the Copy-Paste economy. It now takes seconds for a bot to scrape your YouTube video, strip the metadata, and re-upload it to TikTok. It takes minutes for a scammer to clone your voice from a Twitch stream and send a fake audio message to your Discord community. For premium creators, a single leak can cost thousands in lost revenue.&lt;/p&gt;</description>
     </item>
     <item>
       <title>IP in the Digital Age: Why &#39;Proof&#39; is the New &#39;Protection&#39;</title>
-      <link>http://localhost:1313/posts/ipdigitalage/</link>
+      <link>http://localhost:1313/ip-in-the-digital-age-why-proof-is-the-new-protection/</link>
       <pubDate>Sun, 19 Oct 2025 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ipdigitalage/</guid>
+      <guid>http://localhost:1313/ip-in-the-digital-age-why-proof-is-the-new-protection/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/paul.jpeg&#34; alt=&#34;Author profile picture&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;By &lt;strong&gt;Paul Fearon&lt;/strong&gt;, Co-Founder&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/DigiArt.png&#34; alt=&#34;Abstract digital network art&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-speed-of-a-stolen-idea&#34;&gt;The Speed of a Stolen Idea&lt;/h2&gt;&#xA;&lt;p&gt;In the creator economy, your content is your business. But the digital landscape that gives you global reach also creates unprecedented risk. A video you spend 80 hours editing can be re-uploaded by a &amp;ldquo;reaction&amp;rdquo; channel in 80 seconds. A digital painting can be &amp;ldquo;right-click, saved&amp;rdquo; and minted as an NFT by a stranger. A deepfake of your face can be used in a scam ad, damaging the brand you&amp;rsquo;ve spent years building.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Deepfake Dilemma</title>
-      <link>http://localhost:1313/posts/deepfakedilemma/</link>
+      <link>http://localhost:1313/the-deepfake-dilemma/</link>
       <pubDate>Thu, 19 Jun 2025 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/deepfakedilemma/</guid>
+      <guid>http://localhost:1313/the-deepfake-dilemma/</guid>
       <description>&lt;h2 id=&#34;the-era-of-seeing-is-believing-is-over&#34;&gt;The Era of &amp;ldquo;Seeing is Believing&amp;rdquo; is Over&lt;/h2&gt;&#xA;&lt;p&gt;We are living in a time where your face and voice can be stolen. AI tools can now clone a person&amp;rsquo;s likeness in minutes, creating videos that look and sound exactly like them. For content creators, influencers, and public figures, this is an existential threat.&lt;/p&gt;&#xA;&lt;p&gt;How do you prove that a controversial video isn&amp;rsquo;t you? How do you prove that a scam ad using your face wasn&amp;rsquo;t endorsed by you?&#xA;The answer lies in &lt;strong&gt;Cryptographic Authenticity&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
