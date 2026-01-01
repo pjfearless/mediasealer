@@ -2,3 +2,5 @@ baseURL = 'https://fastidious-pothos-ef9f20.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'mediaseal'
+[permalinks]
+  posts = '/:title/'
