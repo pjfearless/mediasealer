@@ -1,0 +1,17 @@
+<figure class="audio-player my-8 p-6 bg-gray-900/50 rounded-xl border border-gray-700 glass-card">
+    <div class="flex items-center gap-4 mb-4">
+        <div class="bg-blue-600 p-3 rounded-full">
+            <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z" />
+            </svg>
+        </div>
+        <div>
+            <span class="text-white font-semibold block">Listen to Discussion</span>
+            {{ with .Get "caption" }}<span class="text-xs text-gray-400">{{ . }}</span>{{ end }}
+        </div>
+    </div>
+    <audio controls preload="metadata" class="w-full h-10 accent-blue-500">
+        <source src="{{ .Get "src" }}" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</figure>

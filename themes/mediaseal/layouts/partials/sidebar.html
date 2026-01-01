@@ -1,0 +1,19 @@
+<aside class="w-full lg:w-1/4 lg:sticky lg:top-8 self-start">
+    <div class="bg-gray-800 p-6 rounded-lg shadow-xl glass-card">
+        <h3 class="text-xl font-semibold text-white mb-4 border-b border-gray-700 pb-2">More Posts</h3>
+        <ul class="space-y-3">
+            {{ range (where .Site.RegularPages "Section" "posts") }}
+            <li class="border-b border-gray-700 pb-3 last:border-b-0 last:pb-0">
+                <a href="{{ .Permalink }}" class="block group">
+                    <span class="text-xs text-gray-500 block mb-1">
+                        {{ .Date.Format "Jan 2, 2006" }}
+                    </span>
+                    <span class="font-medium text-gray-300 group-hover:text-blue-400 transition duration-200">
+                        {{ .Title }}
+                    </span>
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</aside>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            /* Creates a subtle radial depth so the blue isn't flat */
+            background: radial-gradient(circle at top center, #1e293b 0%, #020617 100%);
+            background-attachment: fixed;
+            min-height: 100vh;
+        }
+
+        .glass-card {
+            /* Semi-transparent Slate-900 */
+            background: rgba(15, 23, 42, 0.4) !important;
+            /* The actual blur effect */
+            backdrop-filter: blur(12px) !important;
+            /* Required for Safari/iOS support */
+            -webkit-backdrop-filter: blur(12px) !important;
+            /* Subtle border to catch the light */
+            border: 1px solid rgba(255, 255, 255, 0.08) !important;
+            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.4);
+        }
+
+        .glow-button {
+            box-shadow: 0 0 15px rgba(59, 130, 246, 0.4), 0 0 5px rgba(59, 130, 246, 0.2);
+        }
+
+        /* Standardizes link colors across the site */
+        a {
+            transition: all 0.2s ease;
+        }
+    </style>
+</head>
+<body class="antialiased text-slate-200">
+    {{ partial "header.html" . }}
+
+    <main role="main" class="min-h-[70vh]">
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    {{ partial "footer.html" . }}
+</body>
+</html>

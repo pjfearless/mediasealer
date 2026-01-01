@@ -1,0 +1,59 @@
+{{ define "main" }}
+<div class="container mx-auto px-6 py-16">
+    <section class="text-center mb-16">
+        <h1 class="text-4xl sm:text-5xl font-extrabold tracking-tight text-white mb-4">
+            The Authenticity Ledger
+        </h1>
+        <p class="max-w-2xl mx-auto text-lg text-gray-400">
+            Insights, strategies, and stories on protecting your creative work in the digital age.
+        </p>
+    </section>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+        {{ range .Paginator.Pages }}
+        <article class="group flex flex-col glass-card rounded-2xl overflow-hidden hover:transform hover:scale-[1.01] transition duration-300">
+
+            {{ if .Params.image }}
+            <a href="{{ .Permalink }}" class="block aspect-video overflow-hidden">
+                <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-full h-full object-cover group-hover:scale-105 transition duration-500">
+            </a>
+            {{ end }}
+
+            <div class="p-8 flex flex-col flex-grow">
+                <header class="mb-4">
+                    {{ if .Params.category }}
+                    <span class="text-xs font-bold text-blue-400 uppercase tracking-widest">{{ .Params.category }}</span>
+                    {{ end }}
+
+                    <h2 class="text-2xl font-bold text-white mt-2 leading-tight group-hover:text-blue-300 transition">
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </h2>
+                </header>
+
+                <p class="text-gray-400 text-sm leading-relaxed mb-8">
+                    {{ .Plain | truncate 150 }}
+                </p>
+
+                <div class="mt-auto pt-6 border-t border-gray-700/50 flex items-center justify-between">
+                    <span class="text-xs text-gray-500">{{ .Date.Format "Jan 2, 2006" }}</span>
+                    <a href="{{ .Permalink }}" class="text-sm font-semibold text-blue-400 hover:text-blue-300 flex items-center">
+                        Read More
+                        <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </article>
+        {{ end }}
+    </div>
+
+    <section class="mt-24">
+        <div class="glass-card rounded-2xl p-8 md:p-12 text-center max-w-4xl mx-auto border border-blue-500/20">
+             <h2 class="text-3xl font-bold text-white">Ready to Protect Your Work?</h2>
+             <p class="mt-4 text-gray-400 max-w-xl mx-auto">Sign your first file for free and experience the peace of mind that comes with verifiable ownership.</p>
+             <a href="/signup/" class="mt-8 inline-block bg-blue-600 text-white font-semibold px-8 py-3 rounded-lg hover:bg-blue-700 transition glow-button text-lg">Get Started Now</a>
+        </div>
+    </section>
+</div>
+{{ end }}
