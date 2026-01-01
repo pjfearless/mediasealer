@@ -1,6 +1,10 @@
-baseURL = 'https://fastidious-pothos-ef9f20.netlify.app/'
+baseURL = 'https://mediasealer.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'mediaseal'
 [permalinks]
   posts = '/:title/'
+
+[params]
+mainSections = ["posts", "ugc"]
+customCSS = ["css/custom.css"]
