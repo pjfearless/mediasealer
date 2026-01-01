@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Dec 2025 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 23:00:58 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Roblox Security Post</title>
+      <link>http://localhost:1313/roblox-security-post/</link>
+      <pubDate>Wed, 31 Dec 2025 23:00:58 -0600</pubDate>
+      <guid>http://localhost:1313/roblox-security-post/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/roblox.png&#34; alt=&#34;User Generated&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;stop-the-beaming-why-every-ugc-creator-needs-a-digital-seal&#34;&gt;&lt;em&gt;&lt;strong&gt;Stop the Beaming: Why Every UGC Creator Needs a Digital Seal&lt;/strong&gt;&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;the-challenge&#34;&gt;The Challenge&lt;/h2&gt;&#xA;&lt;h2 id=&#34;the-mediaseal-solution&#34;&gt;The MediaSeal Solution&lt;/h2&gt;&#xA;&lt;h2 id=&#34;takeaway-for-creators&#34;&gt;Takeaway for Creators&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;If you’ve spent forty hours perfecting a custom 3D mesh in Blender only to see it &amp;ldquo;beamed&amp;rdquo; (stolen) and re-uploaded by a burner account for 50 Robux less than yours, you know the frustration. In the RTC, we call it a Tuesday. But in the world of IP protection, we call it a crisis.&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Content Passport</title>
       <link>http://localhost:1313/content-passport/</link>
@@ -56,13 +63,6 @@
       <pubDate>Thu, 19 Jun 2025 10:00:00 +0000</pubDate>
       <guid>http://localhost:1313/the-deepfake-dilemma/</guid>
       <description>&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/deepfakes.png&#34; alt=&#34;Abstract digital network art&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;the-era-of&#34;&gt;&lt;strong&gt;The Era of &amp;ldquo;Seeing is Believing&amp;rdquo; is Over&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;We are living in a time where your face and voice can be stolen. AI tools can now clone a person&amp;rsquo;s likeness in minutes, creating videos that look and sound exactly like them. For content creators, influencers, and public figures, this is an existential threat.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;How do you prove that a controversial video isn&amp;rsquo;t you? How do you prove that a scam ad using your face wasn&amp;rsquo;t endorsed by you?&#xA;The answer lies in &lt;strong&gt;Cryptographic Authenticity&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Join MediaSeal</title>
-      <link>http://localhost:1313/signup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/signup/</guid>
-      <description>&lt;p&gt;Start protecting your digital legacy today. Join the community of creators using cryptographic authenticity to secure their work.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

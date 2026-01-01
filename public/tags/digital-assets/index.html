@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Assets - My New Hugo Site</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+             
+            background: radial-gradient(circle at top center, #1e293b 0%, #020617 100%);
+            background-attachment: fixed;
+            min-height: 100vh;
+        }
+
+        .glass-card {
+             
+            background: rgba(15, 23, 42, 0.4) !important;
+             
+            backdrop-filter: blur(12px) !important;
+             
+            -webkit-backdrop-filter: blur(12px) !important;
+             
+            border: 1px solid rgba(255, 255, 255, 0.08) !important;
+            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.4);
+        }
+
+        .glow-button {
+            box-shadow: 0 0 15px rgba(59, 130, 246, 0.4), 0 0 5px rgba(59, 130, 246, 0.2);
+        }
+
+         
+        a {
+            transition: all 0.2s ease;
+        }
+    </style>
+</head>
+<body class="antialiased text-slate-200">
+    
+<header class="py-4 px-4 sm:px-6 lg:px-8 sticky top-0 z-50 bg-slate-500 backdrop-blur-lg  glass-card">
+    <nav class="container mx-auto flex justify-between items-center">
+        <a href="/" class="flex flex-col items-start">
+          <img src="/images/seal.png"
+   alt="MediaSeal Logo" class="h-20 w-auto">
+        </a>
+
+        <div class="hidden md:flex items-center space-x-10 font-extrabold text-lg">
+            <a class="text-black-200">MediaSeal - Your Authenticity Ledger</a>
+            <a href="/#features" class="text-gray-200 hover:text-yellow-400 transition">Features</a>
+            <a href="/#pricing" class="text-gray-200 hover:text-yellow-400 transition">Pricing</a>
+            <a href="/posts/" class="text-gray-200 hover:text-yellow-400 transition">Blog</a>
+        </div>
+
+        <a href="/signup/" class="bg-blue-600 text-white font-semibold px-5 py-2 rounded-lg hover:bg-blue-700 transition glow-button">Sign Up</a>
+    </nav>
+</header>
+
+
+    <main role="main" class="min-h-[70vh]">
+        
+<div class="container mx-auto px-6 py-16">
+    <section class="text-center mb-16">
+        <h1 class="text-4xl sm:text-5xl font-extrabold tracking-tight text-white mb-4">
+            The Authenticity Ledger
+        </h1>
+        <p class="max-w-2xl mx-auto text-lg text-gray-400">
+            Insights, strategies, and stories on protecting your creative work in the digital age.
+        </p>
+    </section>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+        
+        <article class="group flex flex-col glass-card rounded-2xl overflow-hidden hover:transform hover:scale-[1.01] transition duration-300">
+
+            
+            <a href="http://localhost:1313/roblox-security-post/" class="block aspect-video overflow-hidden">
+                <img src="/images/roblox.png" alt="Roblox Security Post" class="w-full h-full object-cover group-hover:scale-105 transition duration-500">
+            </a>
+            
+
+            <div class="p-8 flex flex-col flex-grow">
+                <header class="mb-4">
+                    
+                    <span class="text-xs font-bold text-blue-400 uppercase tracking-widest">UGC Security</span>
+                    
+
+                    <h2 class="text-2xl font-bold text-white mt-2 leading-tight group-hover:text-blue-300 transition">
+                        <a href="http://localhost:1313/roblox-security-post/">Roblox Security Post</a>
+                    </h2>
+                </header>
+
+                <p class="text-gray-400 text-sm leading-relaxed mb-8">
+                    
+Stop the Beaming: Why Every UGC Creator Needs a Digital Seal The Challenge The MediaSeal Solution Takeaway for Creators If you’ve spent forty hours …
+                </p>
+
+                <div class="mt-auto pt-6 border-t border-gray-700/50 flex items-center justify-between">
+                    <span class="text-xs text-gray-500">Dec 31, 2025</span>
+                    <a href="http://localhost:1313/roblox-security-post/" class="text-sm font-semibold text-blue-400 hover:text-blue-300 flex items-center">
+                        Read More
+                        <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </article>
+        
+    </div>
+
+    <section class="mt-24">
+        <div class="glass-card rounded-2xl p-8 md:p-12 text-center max-w-4xl mx-auto border border-blue-500/20">
+             <h2 class="text-3xl font-bold text-white">Ready to Protect Your Work?</h2>
+             <p class="mt-4 text-gray-400 max-w-xl mx-auto">Sign your first file for free and experience the peace of mind that comes with verifiable ownership.</p>
+             <a href="/signup/" class="mt-8 inline-block bg-blue-600 text-white font-semibold px-8 py-3 rounded-lg hover:bg-blue-700 transition glow-button text-lg">Get Started Now</a>
+        </div>
+    </section>
+</div>
+
+    </main>
+
+    <footer class="container mx-auto mt-20 sm:mt-24 py-12 px-4 sm:px-6 lg:px-8 border-t border-gray-800">
+    <div class="flex flex-col md:flex-row justify-between items-center text-center md:text-left">
+        <div>
+             <img src="/images/seal.png" alt="MediaSeal Logo" class="h-16 w-auto mx-auto md:mx-0">
+             <p class="text-gray-500 mt-2 text-sm">Your Digital Content Platform</p>
+        </div>
+        <div class="mt-8 md:mt-0 flex space-x-6 text-gray-400">
+            <a href="/#features" class="hover:text-white">Features</a>
+            <a href="/#pricing" class="hover:text-white">Pricing</a>
+            <a href="#" class="hover:text-white">Terms of Service</a>
+            <a href="#" class="hover:text-white">Privacy</a>
+        </div>
+    </div>
+    <div class="mt-8 text-center text-gray-600 text-xs">
+        &copy; 2026 MediaSeal, LLC. All rights reserved.
+    </div>
+</footer>
+
+</body>
+</html>

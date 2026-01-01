@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/content-passport/</loc>
-    <lastmod>2025-12-13T10:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/digital-assets/</loc>
+    <lastmod>2025-12-31T23:00:58-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ip-protection/</loc>
+    <lastmod>2025-12-31T23:00:58-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-13T10:00:00+00:00</lastmod>
+    <lastmod>2025-12-31T23:00:58-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-12-31T23:00:58-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/roblox/</loc>
+    <lastmod>2025-12-31T23:00:58-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/roblox-security-post/</loc>
+    <lastmod>2025-12-31T23:00:58-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-31T23:00:58-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ugc/</loc>
+    <lastmod>2025-12-31T23:00:58-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/content-passport/</loc>
     <lastmod>2025-12-13T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-music-leaked.-what-do-i-do-now/</loc>
@@ -30,9 +48,5 @@
     <lastmod>2025-06-19T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/signup/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
