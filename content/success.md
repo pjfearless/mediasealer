@@ -19,4 +19,7 @@ We will soon be releasing our cryptographic watermarking tools for all digital a
 
 In the meantime, feel free to check out our latest posts on digital IP security.
 
-[Return to Homepage](/posts)
+&nbsp;
+
+
+[Checkout our stories](/posts)
