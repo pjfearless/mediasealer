@@ -7,10 +7,19 @@ comments: false
 
 ### Success!
 
+&nbsp;
+
+
 Thanks for joining the **MediaSealer** waitlist.
 
-We are currently in the process of refining our cryptographic watermarking tools for Roblox UGC and digital assets. We'll be in touch at this email address as soon as we open up the first round of beta access.
+&nbsp;
+
+
+We will soon be releasing our cryptographic watermarking tools for all digital assets. We'll be in touch at this email address as soon as we open up the first round of beta access for early adopters.
+
+&nbsp;
+
 
 In the meantime, feel free to check out our latest posts on digital IP security.
 
-[Return to Homepage](/)
+[Return to Homepage](/Blog)
