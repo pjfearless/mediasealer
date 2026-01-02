@@ -2,6 +2,7 @@
 title: "You're on the list!"
 date: 2026-01-01
 draft: false
+comments: false
 ---
 
 ### Success!
