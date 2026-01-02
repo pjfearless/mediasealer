@@ -4,9 +4,6 @@ date: 2026-01-01
 draft: false
 comments: false
 ---
-
-### Success!
-
 &nbsp;
 
 
@@ -22,4 +19,4 @@ We will soon be releasing our cryptographic watermarking tools for all digital a
 
 In the meantime, feel free to check out our latest posts on digital IP security.
 
-[Return to Homepage](/Blog)
+[Return to Homepage](/posts)
